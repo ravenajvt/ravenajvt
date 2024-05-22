@@ -1,4 +1,4 @@
-## Hi there 👋
+ola meu nome é allana, tenho 17 anos, e me visto muito bem, estudo no tcc
 
 <!--
 **ravenajvt/ravenajvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
